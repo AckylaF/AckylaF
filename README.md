@@ -2,7 +2,6 @@
 
 I'm __Ackyla Ferreira__, a passionate __Frontend Engineer__ from Brazil.
 Currently working at a CaaS (Cashier as a Service) startup from Sylicon Valley. 
-Second account ![Github Badge](https://img.shields.io/badge/-codeshopAckyla-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/codeshopAckyla/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-ackylabatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ackyla-batista/)](https://www.linkedin.com/in/ackyla-batista/)
 [![Instagram Badge](https://img.shields.io/badge/-ackylafb-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ackylafb/)](https://instagram.com/ackylafb)
